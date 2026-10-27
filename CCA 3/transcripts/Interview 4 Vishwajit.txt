@@ -1,0 +1,33 @@
+UIUX Think Aloud Testing for 99acres
+
+Interviewee 4
+Name : Vishwajit Chavan
+PRN : 1032231667
+Speech to Text transcription
+
+99acres site
+Hi, my name is Vishwajit and today I will be reviewing the 99acres site and it's replica version which is the better version and I will be performing think aloud testing
+
+so let's start so my task is to look at three flats and decide which one is best so it's basically like I am buying a new flat and I have to compare options for it
+
+so let's start with it so I am opening the 99acres site so now it's open so we have landed on the home page so when I open the site there are lot of things going on, there is lot of text pop up everything which makes it a bit too clingy so the text is also too small now let me look at the menu first it says buyers, owners tenants, dealers etc so now let's go to the buyer so when I go to the buyer it's what we say the menu is not that smooth and it's laggy and also when I am clicking it's not that responsive as it should be then now let me try this for the owners as well, same again just a few words which one is meant for me
+
+I just want to take a look at flats now moving forward this insights blocks keep showing up under every menu so now let me click a few of them now half of the time the blocks are loading half of the time they are not I don't know what's happening now now in between there are multiple ads going on and it's been redirecting to a random page a bit buggy as we say
+
+now we will move to the main page now let me search a 2BHK flat in Bengaluru I have got a few suggestions so let's click on one of them the first flat so what we have here is we have the price, area, some photos now let me back to the second one yeah now it's stuck yeah buggy as I mentioned the layout is different and some details are opening now let me open the third one for a comparison but now if I want to compare them there is no such thing called as compare button I have to manually go, take a snapshot put it in a document and then compare it side by side which is a hectic one so there is no compare button anywhere so now let me scroll down, I don't think it exists so now I am going between 3 tabs wait one I have to check which one had the parking yeah I forgot so let me go back and I have to write it down manually the cards also don't help either one shows the price tag, the other offer tag and one shows nothing and I am not even comparing the same things so let me try some filters to narrow it down so when I click on the filters, it's a long range of options and I can't find all the unnecessary ones are listed on top and all the necessary ones are not being shown this is how I will get a flat rate now let me scroll down to the bottom the footer links are showing twice wow and there is no way to make the text bigger no dark mode, it's stuck in the light mode it's very tiring, I am not used to this my eyes are getting tired honestly, I can't pick one I have looked at 3-4 flats but to decide, I need all of the 4 flats details side by side then only I can compare so I have to make a document or write it down in my notebook or somewhere and then I have to manually check which one has a better area which one has better photos so the whole point of the task and the site gave me no help so if I had to rate how easy it is to move around I would give a solid 1, not more than that
+
+Redesigned version 99acres replica :
+
+so on the replica let me open it the homepage is very simple as it was intended one headline, one search bar 3 numbers about verified homes and reply time and 3 homes the menu has buy, rent and save my activity and list property I understand all of it right away there is no glitch,
+
+there are no bugs there are no multiple popping ads everywhere and I can compare all the 3 homes side by side the way I wanted with the price the area, whether it has parking or not and the filters are also very clean and also I am very much happy with the color scheme it's elegant and there is dark mode as well and it's not at all tiring so I can scroll it all day and browse it
+
+let me apply some filters here the filters are working perfectly fine now I also see a compare button the menu it was intended to do let me just tap it now I can compare it,
+
+that's what I wanted now I can compare it with price area price per square foot, availability nearest metro station, nearest landmark connectivity, nearest hospital, medical, grocery store everything let me think now first one is the cheapest but it's far from metro the second one is close to the metro but it has no parking third one in the middle,
+
+it has parking and it's not too far and it's owner verified so now I can see 3 of them in a table type and it's really easy, based on this I had picked the third one it hardly took me a minute or two to compare and decide so now let me open it I have a call button,
+
+message button view property button and I can also remove it from the listing and add a new one for a compare one so when I message it it shows that the owner will reply within an hour it's a good thing so yes,
+
+I am done with reviewing it and I actually feel like I made a decision on 99 acres I had just been guessing between 3 types

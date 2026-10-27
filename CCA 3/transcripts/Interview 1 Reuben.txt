@@ -1,0 +1,44 @@
+UIUX Think Aloud Testing for 99acres
+
+Interviewee 1
+Name : Reuben Sam
+PRN : 1032231018
+Speech to Text transcription
+
+Reuben Sam — Original 99acres Website:
+
+“Okay, I'm opening the original 99acres website. I will try to find a property that matches my requirements and see how easily I can compare options and contact the owner.
+
+First, I am looking at the homepage. I can see different property-search options, such as buying or renting a property. I will select the appropriate option and enter a location, such as Pune, to search for properties.
+
+Now I am looking at the search results. I want to explore the available listings and check details such as the price, location, number of bedrooms, and property features. I can use the available filters to narrow down the results according to my requirements.
+
+Next, I will open a property that interests me. I am checking its photos, price, location, and other available information to decide whether it meets my needs.
+
+Now I want to see how easy it is to evaluate this property against other options. I will look for any available shortlist or comparison options and check whether I can compare the properties conveniently.
+
+After that, I will look for the option to contact the owner or advertiser. I want to see how the website lets me make an enquiry or contact the person responsible for the listing. If a call or message option is available, I will try it and observe what happens."
+
+Reuben Sam — Modified Figma Prototype:
+
+“Now I am exploring the modified 99acres prototype. I will search through the available properties and see how easily I can find a property that matches my requirements.
+
+First, I am looking at the property listings. I can browse the available options and check important details such as the price, location, and property features. I will open a property to get a better understanding of what it offers before deciding whether it suits my needs.
+
+Next, I want to try the Compare Properties feature. This is useful because I may find multiple properties that look suitable, and comparing them can help me decide which one is better. I would like to compare their prices, locations, and other available details without having to remember everything from each listing.
+
+Now I am going to check out a property by opening its details. I want to see whether the information is easy to find and whether I can understand the main features of the property without too much effort.
+
+After that, I will try the Call Owner button. This option is useful when I want to speak directly with the owner and ask questions about the property, its availability, or arranging a visit. I will observe what happens when I click the button.
+
+I will also try the Message Owner button. This gives me another way to enquire about the property if I prefer sending a message instead of making a call. I will check whether the process is clear and easy to follow. "
+
+Reuben Sam – Final Conclusion
+
+“So after operating on both websites i would say,
+
+the prototype has a simpler, more focused interface, with convenient options to compare properties and contact owners through call or message buttons.
+
+But at the same time prototype may offer fewer search filters and less flexibility when narrowing down properties based on specific requirements in comparison to the actual site.”
+
+]

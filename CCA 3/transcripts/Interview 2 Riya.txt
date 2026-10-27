@@ -1,0 +1,69 @@
+UIUX Think Aloud Testing for 99acres
+
+Interviewee 2
+Name : Riya Gupta
+PRN : 1032231882
+Speech to Text transcription
+99acres site
+Hey, I'm Riya. So, I'm going to try two property sites back to back. 99 acres and a redesigned version of it and just say whatever I'm thinking.
+
+So, I want a 2BHK in Bangalore and I want to reach the actual owner. So, let's go. Okay, 99 acres first.
+
+Whoa, banner, pop-up, offers. I haven't even typed a single thing and I'm already lost. I'll go to the menu.
+
+Buyers, tenants, owners, dealers. Let me click buyers first. Insights, articles, tools, tenants.
+
+Wait, it's the same stuff. I'll go to the owners. Same again, just reworded.
+
+Which one is mine? I came to look at flats, not solve a menu. Let me click a few of these insights links. Opens, opens, page is gone.
+
+Okay, another one. Page is gone again. Three out of seven are dead.
+
+Not a great first impression, honestly. I'll just crawl. Wait, I've seen this insights box already and again, it keeps showing up like 15 times and the footer, I swear I just read these links.
+
+Yep, it's literally repeated. The text is tiny, no dark mode, no bigger font option. My eyes are already hurting.
+
+I'll search for a 2BHK in Bangalore. Security check first, fine. Now, the cards.
+
+One has an offer tag, one has a percentage, one has nothing. I can't compare them. Is there a compare button? Nope.
+
+So, it's two tabs and my own memory. Let me contact someone. View number and it wants to log in first.
+
+And then, no idea what happens. I've read that people get flooded with calls from agents after this and I can't even tell if this person's an owner or an agent. Nah, closing the tab.
+
+So, two out of ten. It has everything, it just makes you work for it.
+
+Redesigned version 99acres replica :
+All right, so the redesigned one now. Okay, 19, search bar. It says sunlit apartments in Indranagar with a balcony.
+
+On 99 acres, I scroll past offers to find the box. Here the box finds me. I'll scroll.
+
+So it has verified homes, reply time, direct contact, three homes, no pop-ups. 99 acres had pop-ups on top of banners on top of offers. Here I'm just looking at homes.
+
+Okay, so the menu has buy, rent, saved, my activity, list property. 99 acres had four menus with the same stuff in each. This one I get in a second.
+
+One footer too, once. Okay, the search page has filter chips, 42 verified homes, a map, and every card looks identical. So I can scan past.
+
+And there's a compare properties button. 99 acres had nothing. I can click.
+
+Three homes side by side, same details for each. Price per square foot, metro distance, owner or agent. That's what I was doing with two tabs.
+
+Okay, for cedar house, it has updated two hours ago, facts re-verified. On 99 acres, I couldn't tell if a flat even existed anymore. The owner has a name, verified, usually replies in an hour.
+
+Call and message, no view number, no login. And a little line says calls go through a private relay. That was my exact worry.
+
+Let me hit call, request sent. Here's what happens next. SMS and email, track it in my activity.
+
+No spam calls. On 99 acres, I got silence. Here I get a plan.
+
+Okay, but it's not perfect. So let me poke around. I tap the filter chips, nothing happens.
+
+I type something in search, same three homes. Every card I click opens cedar house. Rent shows the same results as buy.
+
+Saved opens a property page. My activity opens compare. So both are wrong.
+
+List properties goes nowhere. And if I shrink the window to phone size, the menu just vanishes. No hamburger.
+
+So it's a bit of a showroom. You can walk around, but you can't buy anything yet. Still, if I had to pick this one, 99 acres made me think about the website.
+
+This one lets me think about the flat. I'd say 7 out of 10. And if the filters actually worked, an 8 or 9.

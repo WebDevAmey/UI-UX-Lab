@@ -1,0 +1,66 @@
+UIUX Think Aloud Testing for 99acres
+
+Interviewee 3
+Name : Anushka Ambadkar
+PRN : 1032231988
+Speech to Text transcription
+
+99acres site
+
+Hi, I am Anushka. I am hunting for a 3BHK near a metro station and I have one rule that is no spam codes. I'll test 99 acres and then a redesign of it and I'm judging both on the three questions that is can I find things fast, second can I compare them and third can I trust it.
+
+So let's just begin with 99 acres. I'm opening the website. Now question one is finding things.
+
+Here's the pop-up, just close it then a banner, a loan offer pop-up. Okay, so let's where's the search bar. Oh, it's there.
+
+I scroll past three offers to type just one word and I can see the page is super long. The text is also small and there's no font size option also no dark mode option. Here clicking on the top menu it shows four options that is buyers, tenants, owners and dealers.
+
+I will click, I clicked on each and it's insights, articles, tools four times but in each menu there are same, a same menu for each costumes. So let's search 3BHK in the search bar. There are more filters, a long list of preset areas and budgets.
+
+I'm scrolling preset instead of just saying what I want, just skip it. Next is question two that is comparing. So I have seen some properties, a tag on one, a percentage on another and nothing on the third.
+
+So now I like two of them and I want to compare it. So where's the compare option? Scrolling, scrolling, there's no option to compare. So it's two tabs and my notes app in 2026 and there's no sign of when a listing was last updated.
+
+So I can't tell what's fresh. Question three that is trust. Now click an insights link.
+
+Oh here it shows pages gone. Now let's click on another. Oh it also shows pages gone and that insights box repeat this around 10 to 15 times.
+
+When a site can't keep its menu working, I get nervous handing it my number. View number asks for a login and then there's nothing, that's silence. So real reviews say you list for free and then get calls pushing paid packages.
+
+And also I can't tell owner from agent so a hard no. After using this and reviewing it, I will rate 99 acres 3 out of 10.
+
+Redesigned version 99acres replica :
+
+Now let's see the replica and here also the same three questions on the redesign. First is finding things. Now let's just open the website and here no pop-up.
+
+One line search bar on top. Okay I wanted a metro and there's a near metro chip on the search page which is right next to price, BHK details and ready to move option. So I didn't scroll anywhere which is a good thing and the menu is one row where I get options of buy, rent, saved properties, my activities and list property.
+
+99 acres give me four menus which have same thing listed and here I get only one menu in one row. That's a good thing. Now we'll see comparing part, compare properties and three homes are already lined up.
+
+We'll compare it on the basis of location, price, area, price per square foot, availability, metro distance and parking. So first is Sedar house which has metro 650 meters away and it's ready now. The another one is the grove which is cheaper per square foot but it's December.
+
+Now next is Neela. It's a 2BHK so I do drop it and it says agent verified while the others say owner verified. So here I know who I'm calling before I call.
+
+99 acres was two tabs and a notes app. This is the entire one screen. My third question goes is trust.
+
+Sedar house says that the information is updated two hours ago. Also the facts are re-verified on 14th of September. The owner is named and said that he will reply in an hour by call or by message and no view number.
+
+A privacy note says my number stays hidden through a relay. Now just click on call and a request is sent. SMS and email coming and no spam call.
+
+So that's an answer to my one rule. Okay fine. The overall experience of using this is better than the 99 acres original website but I'm a skeptic so let me poke a bit.
+
+Trust only works if the details agree with each other and here they don't. The owner is Rhea Menon on the property page. Yeah I can say it here but Rakesh K on the compare page.
+
+That contradicts. Also it's updated two hours ago on one page and two days ago on the another. The contact page also says a reply in 24 hours and also in one hour.
+
+Here the home page is saying 4280 homes. Another place says 184. The search says 42 and it only shows three of them.
+
+Then Neela says new launch on one page and August on 2026 on another which is already passed. So all three homes have the exact same amenities which looks copy pasted. All three homes have the exact.
+
+Okay fine. A call doesn't actually call. It just says request sent and schedule visit does nothing.
+
+So the map is a static picture with one pin and the contact page has a different dark header and a different logo from the rest. So if a verified site contradicts itself it isn't really verified I think and that's what I do fix first. So for me it's 7 out of 10.
+
+Although it's cleaner the compare page is a real win and the privacy note answers my worry. Just fix the data. Make the buttons work.
+
+And I do actually use it next time.

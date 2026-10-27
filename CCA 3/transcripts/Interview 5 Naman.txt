@@ -1,0 +1,178 @@
+UIUX Think Aloud Testing for 99acres
+
+Interviewee 5
+Name : Naman Chachan
+PRN : 1032233951
+Speech to Text transcription
+
+99acres site
+
+Hi, this is Naman chachan. So, I'll be testing two property sites, one after the other, and I'll talk through everything while I do it. I want to book a visit to a 2BHK tomorrow.
+
+The only thing I really care about is speaking to the owner directly and starting with 99 acres. So, okay, so first thing is a pop-up. I didn't ask for anything yet, closing it.
+
+And now there is a banner across the top and below it a few offers that I can see. And I wasn't looking for any of these. So, I'm just trying to find where to type.
+
+Chalo, there's a search box and I'll type the city, choose 2BHK and go. So, yeah, the tick checkbox appeared. So, I haven't even seen a listing and the site wants me to confirm I am human.
+
+Okay, okay. It's a small thing, but at 9 p.m. it feels like one more hoop. Alright, so there's a lot packed in here.
+
+Photos, prices, small text, small writing. Let me open the first one that looks reasonable. So, I have got the photos, the price and the area.
+
+Before I read anything else, I want to know one thing. Is this flat still on the market? So, let me look for a posted date at the top of the page, under the price, further down. No, I'm scrolling the whole page for a date and there is not anyone.
+
+So, I really can't say if somebody put this up this week or last year. That matters to me most. If I'm going to call tomorrow, I don't want to find out that it's gone.
+
+So, next, who is behind this listing specifically? So, I'm looking for a name or a line that says owner or agent. There is contact stuff, there is a button, but nothing that tells me plainly. So, I look again, still nothing I can see and honestly, I can't tell.
+
+So, okay, let me just see what the button does. It says viewed number. So, after clicking it, it is asking for login.
+
+So, login first and then typing in my number and now it's telling me it sent an OTP. So, I'm going to pause before I enter it. I want to understand what I am agreeing to.
+
+Is this OTP just to show me a one number or am I signing up to receive a call? There is nothing on the page that says I'm looking for a small line, not, or anything. And yeah, there is nothing. And I keep thinking about the reviews and I read before this.
+
+So, people say that after contacting through this site, they got flooded with calls and a lot of them were trying to sell paid packages. I don't know if that will happen to me or not, but I can't rule it out and page gives me nothing to go on. So, let me try something.
+
+I'll go back and open a second listing and just to see if it is any different or same layout. So, or I can see the same missing data, same button or same login. It's just the same story.
+
+So, the problem is not one bad listing. One more thing. I have scrolled down all the way to the bottom of this page and only now I see cookie notice sitting down here.
+
+I've been on this page for ages and I only noticed it now. So, yeah, I'll stop here. I haven't given my number and I'm not going to also.
+
+I came to speak to an owner and I couldn't even find out if this person is an owner. I would give it a 3 out of 10 for this task and the pieces are all there, but I had to work for every one of them specifically. And the last step asked me to trust it with nothing in return.
+
+Redesigned version 99acres replica :
+
+Okay so now I am starting with the redesigned site, basically same evening,
+
+same plan to bh and I want to reach to the owner,
+
+the page opens and the first thing I feel is space,
+
+there is headline, a big photo of bright living room and search box,
+
+I didn't have to dig for it specifically, so let me look at the search text,
+
+sun sunlit apartment in Indiranagar with with a balcony that sounds like
+
+something i would say to a friend and so i'll type the same way 2 bhk with the
+
+balcony and search so there is no popup no banner no tickbox i am on the
+
+result page directly and i have not been stopped once so i can see 42 verified
+
+homes so numbers are:
+
+here along the top one cr to two cr and two to thbh
+
+i can also see and ready to move near metro and i only see three
+
+homes on the page so that's all this version shows so i'll read the
+
+cards properly each one has the same order the verified batch the price the name and
+
+the type and also the localities size and then how fresh the listing is,
+
+this says updated two hours ago and this one says updated today and
+
+another one is saying updated yesterday so that's the exactly the
+
+thing i was hunting for on 99 acres and here i got it without
+
+opening any card so the first three card is thbh and
+
+i after a 2bh so let me try
+
+the one in the middle (mila residence) in hsr layout,
+
+so the title says sedar house 3bk in indira nagar,
+
+so that's the first card, let me go back and click the neila again,
+
+the same result i can see and think every card leads to this one page right now and
+
+it it is bit disappointing but okay let me carry on because it's the contact part
+
+i'm here for reading the there are three photos living room
+
+and bedroom and balcony so and i also see 99 naked verified tag also
+
+a photo so the price is 1.92 cr and directly below the
+
+price there is listing updated two hours ago and yeah reverified
+
+on 14th of September 2026,
+
+so I am not left wondering if it is gone, somebody checked in or recently,
+
+so also I can see 1610 square
+
+feet and 11925 rupees per square foot,
+
+so ready now with two covered parking,
+
+so a short description about a quite third floor home with a easy light east light then
+
+highlights and then there is also mentioned pet friendly and also there is lift
+
+access low density building so it can be all readed easily
+
+so now the part i came for there is a block called contact owner directly it shows her
+
+name riya man on with honor verified and usually replies in one hour so the question
+
+i couldn't answer on the 99 acre owner or agent it is answered on this before i click
+
+anything so there are three buttons call rea,
+
+message owner or schedule a visit and there is no login in the
+
+way and no view number step so under them there
+
+is box called your privacy clearly explain so it says
+
+go calls go through a private relay
+
+so my number is also hidden with everyone and for message my number
+
+is shared only after send it myself so it also says contact detail are
+
+never sold that's the very that's the most worring thing that i had
+
+earlier and it got answered in very plain work and okay so now i will send
+
+the contact request and as i can see it is sent and i can see her name the
+
+verified tag are there then basically what happens next so she usually
+
+replies within an hour,
+
+i'll get confirmation by sms or email and i can follow this in my activity section
+
+also of the same account and a line that says no spam call guaranteed and yeah it
+
+is actually true no spam calls are guaranteed and after 99 acre where i had no idea
+
+what came next this is pretty relief i actually have a plan now couple of things
+
+i spotted because i am trying to be honest i clicked message but this page says
+
+contact method call that doesn't match also the top says she typically respond within
+
+24 hours and the list below says one hour so i would want to know which one
+
+is right because i would be waiting for her reply so let me also try
+
+schedule visit from this page since that's what i wanted for tomorrow okay
+
+so it's not finished yet but the thing i care about most is there
+
+i knew who the owner was,
+
+i knew what would happen with my number and i knew what would come next,
+
+on the other side 99 acres, i stopped halfway,
+
+here i got to the end without a single doubt for this task specifically,
+
+so i would give it eight out of 10.
