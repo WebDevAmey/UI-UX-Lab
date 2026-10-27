@@ -19,9 +19,10 @@ We asked five people to do real property-hunting tasks on the live 99acres websi
 
 ```
 CCA 3/
-├── README.md        this file: members, prototype link, final conclusion
-├── audio_files/     raw Think Aloud recordings (5 participants, 8 files; 3 sessions were recorded in two parts)
-└── transcripts/     speech-to-text transcripts, as .docx and as plain .txt
+├── README.md                this file: members, prototype link, final conclusion
+├── Conclusion_Report.docx   the final conclusion as a formatted report
+├── audio_files/             raw Think Aloud recordings (5 participants, 8 files; 3 sessions were recorded in two parts)
+└── transcripts/             speech-to-text transcripts, as .docx and as plain .txt
 ```
 
 | Participant | Audio | Transcript |
@@ -44,6 +45,8 @@ Alongside the interviews, we also draw on our earlier lab work on the same redes
 ---
 
 ## Final Conclusion
+
+The full report is also available as a formatted Word document: [Conclusion_Report.docx](Conclusion_Report.docx).
 
 ### The short version
 
